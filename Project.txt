@@ -194,11 +194,7 @@ int main()
     printf("\t\t\t###########################################################################");
     printf("\n\t\t\t############                                                   ############");
     printf("\n\t\t\t############   Student Record Management System Project in C   ############");
-    printf("\n\t\t\t############        Daffodil International University          ############");
-    printf("\n\t\t\t############                Section 63_E                       ############");
-    printf("\n\t\t\t############       Id: 1245,1002,1382,1241,1155                ############");
     printf("\n\t\t\t###########################################################################");
-
     while(1)
     {
         printf("\n1. --Create new student report--");
